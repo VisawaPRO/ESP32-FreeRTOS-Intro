@@ -51,6 +51,8 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
+![image](https://github.com/user-attachments/assets/b8e218d1-4702-4ed0-92a9-a5a6faaaee34)
+### จะขึ้น My First Task และ My Second Task จะนับเลขพร้อมกัน
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
@@ -63,5 +65,8 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+
+![image](https://github.com/user-attachments/assets/21f2fc85-afb1-43ce-9661-65dffb48515a)
+ ### ได้ผลเหมือนกันแต่taskถูกสร้างกันคนตัว
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
