@@ -33,4 +33,6 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/728b5744-bf5e-4a93-b38f-7e7a3c5ef7eb)
+### พอ Hello My First Task ถึงเลข 5  Hello My Second Task จะถูกลบออก
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
